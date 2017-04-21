@@ -1,0 +1,15 @@
+{
+  "name": "wearablegamification",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
